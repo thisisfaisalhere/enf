@@ -1,3 +1,106 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-main",
+      "description": "Luxury Cyprus Skyline at Night",
+      "imageUrl": "https://images.unsplash.com/photo-1664993118464-f8e4a58f0b15?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "luxury skyline"
+    },
+    {
+      "id": "project-verso",
+      "description": "Modern facade of Verso residence",
+      "imageUrl": "https://images.unsplash.com/photo-1758116482216-b23a8c04cf12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "modern architecture"
+    },
+    {
+      "id": "project-elias",
+      "description": "Elegant exterior of Elias building",
+      "imageUrl": "https://images.unsplash.com/photo-1704383293202-a8c783062a49?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "elegant building"
+    },
+    {
+      "id": "project-sotia",
+      "description": "Family homes at Sotia development",
+      "imageUrl": "https://images.unsplash.com/photo-1717409677637-49013022077f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "family home"
+    },
+    {
+      "id": "project-mamas",
+      "description": "Mamas residence with panoramic view",
+      "imageUrl": "https://images.unsplash.com/photo-1619844455609-1c3894de07b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYW5vcmFtaWMlMjB2aWV3fGVufDB8fHx8MTc3MDQ3NTAwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "panoramic view"
+    },
+    {
+      "id": "project-vladimiros",
+      "description": "Urban architecture of Vladimiros building",
+      "imageUrl": "https://images.unsplash.com/photo-1644990192051-e76ef8fff64f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx1cmJhbiUyMGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE3NzA0NzUwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "urban architecture"
+    },
+    {
+      "id": "project-meca-twins",
+      "description": "Meca Twins towers",
+      "imageUrl": "https://images.unsplash.com/photo-1664993118464-f8e4a58f0b15?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "twin towers"
+    },
+    {
+      "id": "project-q-residence",
+      "description": "Q Residence by the sea",
+      "imageUrl": "https://images.unsplash.com/photo-1758116482216-b23a8c04cf12?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "coastal residence"
+    },
+    {
+      "id": "project-costa",
+      "description": "Costa residence with sea views",
+      "imageUrl": "https://images.unsplash.com/photo-1704383293202-a8c783062a49?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "sea view"
+    },
+    {
+      "id": "project-vasiliki",
+      "description": "Modern architecture of Vasiliki",
+      "imageUrl": "https://images.unsplash.com/photo-1717409677637-49013022077f?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "modern house"
+    },
+    {
+      "id": "interior-1",
+      "description": "Luxurious modern living room interior",
+      "imageUrl": "https://images.unsplash.com/photo-1601002257790-ebe0966a85ae?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "luxury interior"
+    },
+    {
+      "id": "interior-2",
+      "description": "Sleek and minimalist kitchen design",
+      "imageUrl": "https://images.unsplash.com/photo-1644057501622-dfa7dd26dbfb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "minimalist kitchen"
+    },
+    {
+      "id": "interior-3",
+      "description": "Elegant bedroom with a view",
+      "imageUrl": "https://images.unsplash.com/photo-1653652445848-ddc5a1c6472c?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "elegant bedroom"
+    },
+    {
+      "id": "location-1",
+      "description": "Limassol cityscape at dusk",
+      "imageUrl": "https://images.unsplash.com/photo-1664993118464-f8e4a58f0b15?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "cityscape dusk"
+    },
+    {
+      "id": "location-2",
+      "description": "Beautiful beach in Cyprus",
+      "imageUrl": "https://images.unsplash.com/photo-1649503411891-26ff44a3d6cf?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "cyprus beach"
+    },
+    {
+      "id": "about-1",
+      "description": "Construction blueprint plans",
+      "imageUrl": "https://images.unsplash.com/photo-1631171992385-784ae02b1acb?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "construction blueprint"
+    },
+    {
+      "id": "about-2",
+      "description": "Modern building detail shot",
+      "imageUrl": "https://images.unsplash.com/photo-1644657711115-ee46e8dd7c7d?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "imageHint": "building detail"
+    }
+  ]
 }

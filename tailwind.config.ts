@@ -10,9 +10,9 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        body: ['Inter', 'sans-serif'],
-        headline: ['Inter', 'sans-serif'],
-        code: ['monospace'],
+        headline: ['Playfair Display', 'serif'],
+        body: ['Manrope', 'sans-serif'],
+        accent: ['Cormorant Garamond', 'serif'],
       },
       colors: {
         background: 'hsl(var(--background))',
@@ -70,6 +70,10 @@ export default {
         lg: 'var(--radius)',
         md: 'calc(var(--radius) - 2px)',
         sm: 'calc(var(--radius) - 4px)',
+      },
+      boxShadow: {
+        glow: '0 0 20px rgba(212, 175, 55, 0.15)',
+        card: '0 10px 30px -10px rgba(0, 0, 0, 0.5)',
       },
       keyframes: {
         'accordion-down': {
